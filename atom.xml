@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://faizaanshamsi.github.io/atom.xml" rel="self"/>
   <link href="http://faizaanshamsi.github.io/"/>
-  <updated>2013-11-05T22:52:35-05:00</updated>
+  <updated>2013-11-05T23:04:01-05:00</updated>
   <id>http://faizaanshamsi.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,5 +12,18 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    
+    <title type="html"><![CDATA[Why I'm at Launch Academy]]></title>
+    <link href="http://faizaanshamsi.github.io/blog/2013/11/05/why-im-at-launch-academy/"/>
+    
+    <updated>2013-11-05T23:03:00-05:00</updated>
+    <id>http://faizaanshamsi.github.io/blog/2013/11/05/why-im-at-launch-academy</id>
+    
+    <content type="html"><![CDATA[
+]]></content>
+    
+  </entry>
   
 </feed>
