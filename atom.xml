@@ -4,7 +4,7 @@
   <title><![CDATA[.learn_to_code(faizaan)]]></title>
   <link href="http://faizaanshamsi.github.io/atom.xml" rel="self"/>
   <link href="http://faizaanshamsi.github.io/"/>
-  <updated>2013-11-18T01:02:50-05:00</updated>
+  <updated>2013-11-20T13:46:57-05:00</updated>
   <id>http://faizaanshamsi.github.io/</id>
   <author>
     <name><![CDATA[Faizaan Shamsi]]></name>
@@ -12,6 +12,40 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    
+    <title type="html"><![CDATA[The Breakable Toy]]></title>
+    <link href="http://faizaanshamsi.github.io/blog/2013/11/20/the-breakable-toy/"/>
+    
+    <updated>2013-11-20T13:27:00-05:00</updated>
+    <id>http://faizaanshamsi.github.io/blog/2013/11/20/the-breakable-toy</id>
+    
+    <content type="html"><![CDATA[<p> Today I began working on one of the most interesting parts of Launch Academy, the breakable toy. It&#8217;s an application of our own choosing that we will build, then break and rebuild as part of the program. The idea is to have a place where we can put the concepts we&#8217;re learning into a real project. It&#8217;s our first exposure to full-stack programming and the design and development of software.</p>
+
+
+
+
+<p>In choosing my breakable toy I wanted to build something that solved a problem that hadn&#8217;t been solved with software. I decided to build a program that matches patients on a standby list (to see a doctor/dentist) with cancelled appointments they are available for. I wanted something simple so I don&#8217;t want to integrate/interfere with current scheduling systems. I&#8217;ve worked in a doctor&#8217;s office before and from talking to some in the industry cancellations and double bookings are a big problem this may help alleviate.</p>
+
+
+
+
+<p>The program is quite straightforward. The patient availability will be entered into the system. When there is a cancellation, it will be entered into the system. They system will rank the available patients for that timeslot, and the first to confirm will be assigned that appointment time.</p>
+
+
+
+
+<p>There are 2 components to the application I feel will be the most challenging. The matching system needs to be able to message multiple users to make sure that it fills the spot quickly, but in a way that gives users time to respond and doesn&#8217;t alienate those that don&#8217;t respond quickly. Secondly, the users will most likely be sent an email link to confirm, but ideally they could do so by SMS or email directly.</p>
+
+
+
+
+<p>Right now I&#8217;ve only begun writing user stories, but the breakable toy is a great way to go through the development cycle from planning to deployment in the time we have here at Launch Academy.</p>
+
+]]></content>
+    
+  </entry>
   
   <entry>
     
