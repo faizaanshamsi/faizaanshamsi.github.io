@@ -4,7 +4,7 @@
   <title><![CDATA[.learn_to_code(faizaan)]]></title>
   <link href="http://faizaanshamsi.github.io/atom.xml" rel="self"/>
   <link href="http://faizaanshamsi.github.io/"/>
-  <updated>2013-11-25T08:41:19-05:00</updated>
+  <updated>2013-12-11T22:55:00-05:00</updated>
   <id>http://faizaanshamsi.github.io/</id>
   <author>
     <name><![CDATA[Faizaan Shamsi]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    
+    <title type="html"><![CDATA[Intro to TDD]]></title>
+    <link href="http://faizaanshamsi.github.io/blog/2013/12/11/intro-to-tdd/"/>
+    
+    <updated>2013-12-11T22:52:00-05:00</updated>
+    <id>http://faizaanshamsi.github.io/blog/2013/12/11/intro-to-tdd</id>
+    
+    <content type="html"><![CDATA[
+]]></content>
+    
+  </entry>
   
   <entry>
     
